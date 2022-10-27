@@ -1,0 +1,59 @@
+.main-seaction{
+    background-image: url("./image1.png");
+}
+.nav-link.active{
+    color:green;
+}
+.nav-link{
+    color: white;
+}
+.fnt-50px{
+    font-size: 50px;
+}
+.fnt-24px{
+    font-size: 24px;
+}
+.react1{
+    background-image: url("./react1.png");
+    border-radius: 30px;
+    height: 270px;
+}
+.react2{
+    background-image: url("./react2.png");
+    width: 500px;
+    height: 340px;
+    position: absolute;
+}
+.space{
+    height: 100px;
+}
+.mobile1{
+    background-image: url("./mobile.png");
+    width: 420px;
+    height: 867px;
+}
+.mobile2{
+    background-image: url("./mobile2.png");
+    height: 816px;
+    width: 380px;
+}
+.circle{
+    width: 60px;
+}
+.line{
+    margin-left: 27px;
+    height: 80px;
+}
+.section4{
+    background-image: url("./Rect6.png");
+    height: 5px;
+}
+.section7{
+    background-image: url("./Rect7.png");
+    margin-top: 100px;
+}
+.gps{
+    position: absolute;
+    width: 300px;
+    top: -60px;
+}
