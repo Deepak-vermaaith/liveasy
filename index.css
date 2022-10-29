@@ -13,6 +13,9 @@
 .fnt-24px{
     font-size: 24px;
 }
+.fnt-30px{
+    font-size: 30px;
+}
 .react1{
     background-image: url("./react1.png");
     border-radius: 30px;
@@ -56,4 +59,83 @@
     position: absolute;
     width: 300px;
     top: -60px;
+}
+.information{
+    width: 600px;
+}
+.text-dark-green{
+    color: #034852;
+}
+.payment{
+    background-image: url("./payment.png");
+    height: 680px;
+}
+.payment-done{
+    background-image: url("./payment-done.png");
+    width: 308px;
+    height: 128px;
+}
+.transportor-btn{
+    background-image: url("./transportor1.png");
+    width: 428px;
+    height: 100px;
+}
+.shipper-btn{
+    background-image: url("./shipper.png");
+    width: 796px;
+    height: 100px;
+    margin-left: -428px;
+}
+.trans-text{
+    margin-top: 28px;
+    margin-left: 140px;
+
+}
+.shipp-text{
+    float: right;
+    margin-right: 150px;
+    margin-top: 30px;
+}
+.text-blue{
+    color: #032086;
+}
+.download-btn{
+background-color: #032086;
+border-color: #032086;
+color: white;
+border-radius: 100px;
+}
+.fnt-40px{
+    font-size: 40px;
+}
+.shadow-box{
+    box-shadow: -2px 5px 39px #032086;
+}
+.user{
+    height: 60px;
+
+}
+.star{
+    height: 30px;
+}
+.circle-fill{
+    height: 20px;
+}
+.section8{
+    background-image: url("./black-box.png");
+
+}
+.green-line{
+    background-image: url("./green-line.png");
+    height: 2px;
+    width: 200px;
+}
+.bg-black{
+    background-color: black;
+}
+.download-btn-trans{
+    background-color: #D9D9D933;
+    border-color: #D9D9D933;
+    color: white;
+    border-radius: 100px;  
 }
